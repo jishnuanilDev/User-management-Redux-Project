@@ -1,0 +1,6 @@
+[submodule "User-management-Redux-Project-backend"]
+	path = User-management-Redux-Project-backend
+	url = https://github.com/jishnuanilDev/User-management-Redux-Project-backend.git
+[submodule "User-management-Redux-Project-client"]
+	path = User-management-Redux-Project-client
+	url = https://github.com/jishnuanilDev/User-management-Redux-Project-client.git
